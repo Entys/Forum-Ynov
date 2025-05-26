@@ -28,7 +28,6 @@ Membres :
 
 Groupe : La tcheam
 Membres :
-
 - Alexandre BOZZI
 - Clément ALSINA
 - Raphael BONNET
@@ -80,8 +79,8 @@ Membres :
 
 ----------------------
 
-Groupe : Oui
-Membres : Silk Road
+Groupe : Silk Road
+Membres : 
 - DESSENNE Ylan
 - DELVER Sebastien
 - MATA Loan
