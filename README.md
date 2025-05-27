@@ -120,3 +120,11 @@ The following extensions of the forum are available as separate modules. Each on
 - [Security](security/README.md): HTTPS, rate limiting, session hardening and encryption.
 
 Each feature must be implemented **on top of the base forum**, using consistent design and architecture.
+
+
+---
+### Packages Allowed
+
+- TailWind
+- golang.org/x/oauth2
+- github.com/joho/godotenv
