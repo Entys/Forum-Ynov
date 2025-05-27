@@ -81,11 +81,11 @@ For the forum project you must use Docker.
 > Ensure your MySQL container is not exposed externally (no `0.0.0.0:3306`), only accessible from the backend.
 
 - You must handle website errors, HTTP status.
-  > 400 : Bad Request,
-  > 401 : Unauthorized,
-  > 403 : Forbidden,
-  > 404 : Not Found,
-  > 500 : Internal Server Error,
+  > - 400 : Bad Request,
+  > - 401 : Unauthorized,
+  > - 403 : Forbidden,
+  > - 404 : Not Found,
+  > - 500 : Internal Server Error,
 - You must handle all sort of technical errors.
 - The code must respect the [**good practices**](https://ytrack.learn.ynov.com/git/root/public/src/branch/master/subjects/good-practices/README.md).
 - It is recommended to have **test files** for [unit testing](https://go.dev/doc/tutorial/add-a-test).
